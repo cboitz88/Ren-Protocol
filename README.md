@@ -1,12 +1,10 @@
 
-Presentation
+# Ren Protocol
+
+## Presentation
 https://docs.google.com/presentation/d/e/2PACX-1vRShdxMQ-eDkK1fMJRLsCixqUnX2MTctZldP4hVV41S3XcQ6LrWV71Vl88WA2fGU5Co4pT8MxBrnG6V/pub?start=false&loop=false&delayms=3000
 
 
-
-
-
-# Ren Protocol
 ##    Carl Boitz
 
 One of the most interesting players in the new field of decentralized finance (DeFi) is a startup based out of Singapore called Ren Protocol. Formerly named Republic Protocol, Ren was founded in 2017 by Taiyang Zhang and Loong Wang in response to the absence of dark pools in the crypto ecosystem and the need for a decentralized crypto exchange for privacy. Ren protocol is looking to fill a niche in the market for interoperability of blockchain liquidity, allowing users to trade cross chain in the privacy of  dark pools. They recently opened their own dark pool named MainNet where they can facilitate atomic swaps with the dark nodes created so far. This company is an up and coming innovator that is using advances in technology to lead the way for future investors to place big bets  in the crypto space.
