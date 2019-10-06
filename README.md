@@ -9,7 +9,8 @@ https://docs.google.com/presentation/d/e/2PACX-1vRShdxMQ-eDkK1fMJRLsCixqUnX2MTct
 
 
 
-Ren Protocol, by Carl Boitz
+# Ren Protocol
+##    Carl Boitz
 
 One of the most interesting players in the new field of decentralized finance (DeFi) is a startup based out of Singapore called Ren Protocol. Formerly named Republic Protocol, Ren was founded in 2017 by Taiyang Zhang and Loong Wang in response to the absence of dark pools in the crypto ecosystem and the need for a decentralized crypto exchange for privacy. Ren protocol is looking to fill a niche in the market for interoperability of blockchain liquidity, allowing users to trade cross chain in the privacy of  dark pools. They recently opened their own dark pool named MainNet where they can facilitate atomic swaps with the dark nodes created so far. This company is an up and coming innovator that is using advances in technology to lead the way for future investors to place big bets  in the crypto space.
 	Tai and Loong first met at their alma mater, Australian National University in Canberra where they studied computer science together. They had briefly worked at the same startup doing big data analytics. After realizing their potential, they proceeded to start their own company called Neucode, a software development agency where they worked on projects for government agencies, logicstics & geospatial projects(1)   After this venture, Taiyang co-founded a crypto trading fund called Virgil Capital. At Virgil, Tai wrote the quantitative trading strategies  that would be used. Being the architect for the systems of this quant fund was the introduction to the crypto space for Tai, and where he was first introduced  to Ethereum and smart contracts.
@@ -31,7 +32,7 @@ In conclusion, Ren Protocol is an incredibly interesting company to watch progre
 
 Resources
 
-1.https://epicenter.tv/episode/230/ Podcast interviewing Taiyang Zhang and Loong Wang of REN
+1. https://epicenter.tv/episode/230/ Podcast interviewing Taiyang Zhang and Loong Wang of REN
 2. Michael Lewis, Flash Boys. Pg 86 chapter 3 “Ronan’s Problem”
 3. https://www.coinbureau.com/review/republic-protocol-ren
 https://www.investopedia.com/tech/what-are-centralized-cryptocurrency-exchanges/
@@ -39,5 +40,5 @@ https://www.investopedia.com/tech/what-are-centralized-cryptocurrency-exchanges/
 5. https://icodrops.com/republic-protocol/
 
 6. https://www.youtube.com/watch?v=WkXUz3UFn6Y
-7.https://medium.com/@aenigmacapital/republic-protocol-ren-investment-research-a0385778f01c
+7. https://medium.com/@aenigmacapital/republic-protocol-ren-investment-research-a0385778f01c
 8.https://cryptogems.com/ren-protocol-the-ren-token-and-the-underlying-dark-pool-exchange-protocol-explained/
