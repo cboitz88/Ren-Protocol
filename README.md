@@ -1,6 +1,3 @@
-# Ren-Protocol
-Case Study of Ren Protocol
-
 
 Presentation
 https://docs.google.com/presentation/d/e/2PACX-1vRShdxMQ-eDkK1fMJRLsCixqUnX2MTctZldP4hVV41S3XcQ6LrWV71Vl88WA2fGU5Co4pT8MxBrnG6V/pub?start=false&loop=false&delayms=3000
